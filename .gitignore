@@ -1,0 +1,7 @@
+.obj
+client
+server
+.depend.echo_client
+.depend.echo_IDL
+.depend.echo_IDL_Idl1
+.depend.echo_server
